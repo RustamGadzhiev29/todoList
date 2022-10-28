@@ -1,0 +1,18 @@
+
+
+.error {
+  border: red 5px solid;
+  outline: transparent;
+
+}
+
+.error-message {
+  color: red;
+}
+
+.is-done {
+  opacity: 50%;
+}
+.active {
+  background-color: aquamarine;
+}
